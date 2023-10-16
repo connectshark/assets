@@ -2,6 +2,11 @@
 
 各種圖片url
 
+![](https://cdn.jsdelivr.net/gh/connectshark/assets@latest/nosegates.jpg)
+```
+https://cdn.jsdelivr.net/gh/connectshark/assets@latest/nosegates.jpg
+```
+
 ![](https://cdn.jsdelivr.net/gh/connectshark/assets@latest/blog/logo.svg)
 ```
 https://cdn.jsdelivr.net/gh/connectshark/assets@latest/blog/logo.svg
