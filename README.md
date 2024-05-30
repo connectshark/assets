@@ -38,3 +38,9 @@ https://cdn.jsdelivr.net/gh/connectshark/assets@latest/certificate/dark.jpg
 ```
 https://cdn.jsdelivr.net/gh/connectshark/assets@latest/sandra/sandraandchambers.jpg
 ```
+
+![](/star/exchange-star.svg)
+
+```
+https://cdn.jsdelivr.net/gh/connectshark/assets@latest/star/exchange-star.svg
+```
